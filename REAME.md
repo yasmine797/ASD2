@@ -1,6 +1,6 @@
 ## -------------- Students ------------------
 . Amira Lakehal
-. Yasmine Blhamri
+. YASMINE BELHAMRI
 . 
 .
 .
